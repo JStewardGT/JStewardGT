@@ -7,9 +7,9 @@ Front End Developer with experience in Javascript, mainly Angular, HTML, CSS (SA
 
 - 🔭 I am currently working at Ivolución as a front-end developer.
 - 🌱 I’m currently learning Angular, Node JS
+- 💬 Ask me about CSS, preprocessors and angular
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about CSS, preprocessors and angular
 <!-- - 📫 How to reach me: ... -->
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
