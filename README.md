@@ -3,7 +3,7 @@
 
 Front End Developer with experience in Javascript, mainly Angular, HTML, CSS (SASS, LESS, Stylus), as well as knowledge and experience in using graphic and interactive design tools such as Figma, Adobe XD, Illustrator and Photoshop.
 
-[![Linkedin Badge](https://img.shields.io/badge/-Andres_Moreno-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johan-steward-galeano/) [![Mail Badge](https://img.shields.io/badge/-andresmorenojf-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:johans.galeanot@hotmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johan-steward-galeano/) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johans.galeanot@hotmail.com)
 
 - 🔭 I am currently working at Ivolución as a front-end developer.
 - 🌱 I’m currently learning Angular, Node JS
