@@ -1,6 +1,4 @@
-### Hi there 👋
-
-## Hi, I'm Johan Steward Galeano Torres <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+# Hi, I'm Johan Steward Galeano Torres <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 #### Frontend Developer.
 
 Front End Developer with experience in Javascript, mainly Angular, HTML, CSS (SASS, LESS, Stylus), as well as knowledge and experience in using graphic and interactive design tools such as Figma, Adobe XD, Illustrator and Photoshop.
