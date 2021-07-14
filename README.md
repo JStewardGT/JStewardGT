@@ -32,9 +32,3 @@ Front End Developer with experience in Javascript, mainly Angular, HTML, CSS (SA
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andresmorenoj&layout=compact&theme=tokyonight)](https://github.com/andresmorenoj/github-readme-stats) -->
 
 <!-- #### WakaTime Coding Stats -->
-
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
