@@ -33,24 +33,34 @@
 
 ## 🧑‍💻 Sobre mí · About me
 
-```typescript
-const johan = {
-  rol: "Frontend Developer",
-  ubicacion: "Colombia 🇨🇴",
-  empresa: "i+volución Proyectos Con Innovación SAS",
-  experiencia: "Desde junio de 2018",
-  enfoque: ["SPA", "Apps Híbridas", "UI/UX", "Accesibilidad Web"],
-  aprendiendo: ["React 19", "Node.js", "Arquitecturas escalables"],
-  reconocimiento: "Platzi Master · Top 0.1% de estudiantes",
-  filosofia: "Soluciones creativas y efectivas en equipos colaborativos 🚀",
-};
-```
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🇨🇴 En pocas palabras</h4>
+      <ul>
+        <li>🔭 Frontend Developer en <b>i+volución</b> desde 2018.</li>
+        <li>⚛️ Especializado en <b>React</b> y <b>Angular</b>.</li>
+        <li>🌱 En constante aprendizaje: <b>React 19, Node.js</b>.</li>
+        <li>💬 Pregúntame sobre <b>CSS, preprocesadores, Angular y React</b>.</li>
+        <li>🎨 Diseño con <b>Figma, Adobe XD, Illustrator, Photoshop</b>.</li>
+        <li>📜 <b>Professional Scrum Master</b> (CertiProf, 2023).</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🏅 Datos rápidos</h4>
+      <ul>
+        <li>🏆 <b>Platzi Master</b> — Top <b>0.1%</b> de estudiantes.</li>
+        <li>🧩 Arquitecturas <b>SPA</b>, apps <b>híbridas</b> y <b>CMS</b>.</li>
+        <li>🔗 Integración con backend <b>.NET, Node.js y PHP</b>.</li>
+        <li>📈 Enfoque en <b>UI/UX</b>, rendimiento y accesibilidad.</li>
+        <li>🤝 Trabajo en equipos colaborativos.</li>
+        <li>🚀 Soluciones creativas y efectivas.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-- 🔭 Actualmente trabajo en **i+volución** como Frontend Developer.
-- 🌱 En constante aprendizaje de **React, Angular y Node.js**.
-- 💬 Pregúntame sobre **CSS, preprocesadores, Angular y React**.
-- 🎨 También manejo herramientas de diseño: **Figma, Adobe XD, Illustrator y Photoshop**.
-- 📜 **Professional Scrum Master** certificado (CertiProf, 2023).
+> 💡 *« Mi capacidad para adaptarme a nuevos desafíos y mi disposición para aprender constantemente me permiten ofrecer soluciones creativas y efectivas. »*
 
 ---
 
