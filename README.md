@@ -3,7 +3,11 @@
   <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="32px" alt="hi">
 </h1>
 
-<h3 align="center">💻 Frontend Developer · React & Angular</h3>
+<p align="center">
+  <a href="https://github.com/JStewardGT">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0E75B6&center=true&vCenter=true&width=520&lines=Frontend+Developer+%F0%9F%92%BB;React+%26+Angular+Specialist+%E2%9A%9B%EF%B8%8F;UI%2FUX+%26+Accesibilidad+Web+%F0%9F%8E%A8;Soluciones+creativas+y+efectivas+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <i>Profesional en desarrollo web especializado en React y Angular, con sólidas habilidades en HTML, CSS y JavaScript.</i><br/>
@@ -65,6 +69,12 @@
 ---
 
 ## 🛠️ Tecnologías y Herramientas · Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,angular,react,vue,ionic,nodejs,express,redux,sass,materialui,bootstrap,figma,vite,git&perline=9" alt="Skill Icons" />
+  </a>
+</p>
 
 #### Lenguajes · Languages
 <p>
@@ -203,6 +213,10 @@ Personalización de plantillas y estilos **CSS**, templates reutilizables y gest
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=JStewardGT&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JStewardGT&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
 </p>
 
 ---
