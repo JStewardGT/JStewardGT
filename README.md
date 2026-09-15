@@ -100,8 +100,8 @@
 <p>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-  <img src="https://img.shields.io/badge/.NET_(2_años)-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
-  <img src="https://img.shields.io/badge/Python_(2_años)-Flask%20%7C%20Django-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Backend"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/Python-Flask%20%7C%20Django-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Backend"/>
   <img src="https://img.shields.io/badge/REST_APIs-JWT-005571?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
   <img src="https://img.shields.io/badge/PHP-CodeIgniter-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
 </p>
